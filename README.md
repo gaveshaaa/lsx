@@ -4,6 +4,7 @@
 Nerd Fonts are necessary, Otherwise icons won't work
  `
  
+ [[>] Change Font (WinTerminal)][change-font]
  [[>] Nerd Fonts][nerd-fonts]
 
 <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=red" />
@@ -29,3 +30,5 @@ This project is licensed under the MIT License.
 
 
 [nerd-fonts]: https://www.nerdfonts.com/font-downloads "Nerd Fonts"
+
+[change-font]: https://pureinfotech.com/change-font-face-windows-terminal/
