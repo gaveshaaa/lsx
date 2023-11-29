@@ -10,8 +10,7 @@ Nerd Fonts are necessary, Otherwise icons won't work
 
 "lsx" is a modified version of the ls command tailored for Windows systems, offering enhanced functionality and customization.
 
-
-[![Screenshot](https://media.discordapp.net/attachments/1179401790215684117/1179442263579951114/image.png?ex=6579cc34&is=65675734&hm=f6eac509d10694fbb2f8cef22eda5c9eb0b9646233aa7d1a9539535af8633e79&=&format=webp&quality=lossless&width=870&height=446 "Screenshot")](https://media.discordapp.net/attachments/1179401790215684117/1179442263579951114/image.png?ex=6579cc34&is=65675734&hm=f6eac509d10694fbb2f8cef22eda5c9eb0b9646233aa7d1a9539535af8633e79&=&format=webp&quality=lossless&width=870&height=446 "Screenshot")
+![Screenshot](https://media.discordapp.net/attachments/1179401790215684117/1179446059332812880/image.png?ex=6579cfbd&is=65675abd&hm=d203661fd885e6aa028710d00d62a1419a31950a346e0a14b9d1826bae0b2991&=&format=webp&quality=lossless&width=886&height=446 "Screenshot")
 
 ## Setup
 -  Save to a folder called C:/Scripts/
