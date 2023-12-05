@@ -1,17 +1,22 @@
 # LSX - Enhanced ls Command for Windows
 
+<img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=red" />
+
 `
 Nerd Fonts are necessary, Otherwise icons won't work
  `
- 
  [[>] Change Font (WinTerminal)][change-font]
  [[>] Nerd Fonts][nerd-fonts]
-
-<img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=red" />
 
 "lsx" is a modified version of the ls command tailored for Windows systems, offering better view of your directories.
 
 ![Screenshot](https://media.discordapp.net/attachments/1179401790215684117/1179446059332812880/image.png?ex=6579cfbd&is=65675abd&hm=d203661fd885e6aa028710d00d62a1419a31950a346e0a14b9d1826bae0b2991&=&format=webp&quality=lossless&width=886&height=446 "Screenshot")
+
+ ## Known Issues
+ - CSharp file extension is incorrect
+ - Method of scanning is needs to be updated
+
+
 
 ## Setup
 -  Save to a folder called C:/Scripts/
