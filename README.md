@@ -15,6 +15,8 @@ Nerd Fonts are necessary, Otherwise icons won't work
  ## Known Issues To Be Fixed
  - CSharp file extension is incorrect
  - Method of scanning is needs to be updated
+ - Resets directory location
+ - Relativly slow to process
 
 ## Setup
 -  Save to a folder called C:/Scripts/
